@@ -57,6 +57,7 @@ function loadThemeSelect() {
 		incog: "Incognito",
 		main: "None",
 		discord: "Discord",
+		hub: "Black + Gold",
 	}
 
 	var _themes = Object.keys(themes);
