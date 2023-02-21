@@ -1,6 +1,6 @@
 # Otrov
 
-Otrov is a free web proxy designed to end cencorship
+Otrov is a free web proxy designed to end censorship
 
 ## How to host Otrov?
 
